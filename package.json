@@ -21,8 +21,12 @@
   },
   "bugs": "https://github.com/zacanger/fetchenv/issues",
   "keywords": [
-    "",
-    "fetchenv"
+    "env",
+    "envinfo",
+    "environment",
+    "info",
+    "neofetch",
+    "screenfetch"
   ],
   "dependencies": {},
   "devDependencies": {
