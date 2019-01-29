@@ -1,6 +1,6 @@
 {
   "name": "fetchenv",
-  "description": "fetchenv",
+  "description": "scrot-friendly env info",
   "version": "0.0.1",
   "author": {
     "name": "Zac Anger",

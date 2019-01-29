@@ -1,10 +1,12 @@
 # fetchenv
 
+scrot-friendly env info
+
 --------
 
-## Installation
-
 ## Usage
+
+`npx fetchenv` or `npm i -g fetchenv && fetchenv`
 
 ## License
 
