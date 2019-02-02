@@ -3,14 +3,15 @@
   "description": "scrot-friendly env info",
   "version": "0.4.0",
   "author": {
-    "name": "Zac Anger",
     "email": "zac@zacanger.com",
+    "name": "Zac Anger",
     "url": "https://zacanger.com"
   },
   "license": "MIT",
   "main": "index.js",
   "bin": "./index.js",
   "scripts": {
+    "preversion": "npm t",
     "test": "eslint *.js lib/*.js"
   },
   "homepage": "https://github.com/zacanger/fetchenv#readme",
