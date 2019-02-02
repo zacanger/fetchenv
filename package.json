@@ -28,7 +28,8 @@
     "screenfetch"
   ],
   "dependencies": {
-    "envinfo": "6.0.1"
+    "envinfo": "6.0.1",
+    "zeelib": "8.5.0"
   },
   "devDependencies": {
     "babel-eslint": "10.0.1",
