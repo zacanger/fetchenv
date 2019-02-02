@@ -13,7 +13,6 @@ scrot-friendly env info
 ## TODO
 
 * More infos?
-* Octal literals are not allowed in strict mode
 
 ## License
 
