@@ -2,6 +2,8 @@
 
 scrot-friendly env info
 
+![screenshot](/screenshot.png?raw=true)
+
 --------
 
 ## Usage
@@ -11,7 +13,6 @@ scrot-friendly env info
 ## TODO
 
 * More infos?
-* Screenshots
 * Octal literals are not allowed in strict mode
 
 ## License
