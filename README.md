@@ -8,6 +8,13 @@ scrot-friendly env info
 
 `npx fetchenv` or `npm i -g fetchenv && fetchenv`
 
+## TODO
+
+* Make it look good
+* More infos?
+* Screenshots
+* Octal literals are not allowed in strict mode
+
 ## License
 
 [MIT](./LICENSE.md)
