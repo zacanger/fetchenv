@@ -10,7 +10,6 @@ scrot-friendly env info
 
 ## TODO
 
-* Make it look good
 * More infos?
 * Screenshots
 * Octal literals are not allowed in strict mode
