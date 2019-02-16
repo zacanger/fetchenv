@@ -10,10 +10,6 @@ scrot-friendly env info
 
 `npx fetchenv` or `npm i -g fetchenv && fetchenv`
 
-## TODO
-
-* More infos?
-
 ## License
 
 [MIT](./LICENSE.md)

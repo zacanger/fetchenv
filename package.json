@@ -29,19 +29,19 @@
     "screenfetch"
   ],
   "dependencies": {
-    "envinfo": "6.0.1",
+    "envinfo": "7.0.0",
     "zeelib": "8.5.0"
   },
   "devDependencies": {
     "babel-eslint": "10.0.1",
-    "eslint": "5.13.0",
+    "eslint": "5.14.0",
     "eslint-config-zacanger": "3.4.2",
     "eslint-plugin-babel": "5.3.0",
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-node": "8.0.1",
     "eslint-plugin-promise": "4.0.1",
     "eslint-plugin-unicorn": "7.1.0",
-    "tape": "4.10.0"
+    "tape": "4.10.1"
   },
   "engines": {
     "node": ">=10.0.0"
