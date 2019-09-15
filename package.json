@@ -29,11 +29,11 @@
   ],
   "dependencies": {
     "envinfo": "7.3.1",
-    "zeelib": "10.0.1"
+    "zeelib": "11.0.1"
   },
   "devDependencies": {
-    "sortpack": "1.2.0",
-    "standard": "13.0.2"
+    "sortpack": "2.0.1",
+    "standard": "14.3.0"
   },
   "engines": {
     "node": ">=10.0.0"
