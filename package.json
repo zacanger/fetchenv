@@ -28,12 +28,12 @@
     "screenfetch"
   ],
   "dependencies": {
-    "envinfo": "7.3.1",
-    "zeelib": "11.0.1"
+    "envinfo": "7.4.0",
+    "zeelib": "11.0.2"
   },
   "devDependencies": {
     "sortpack": "2.0.1",
-    "standard": "14.3.0"
+    "standard": "14.3.1"
   },
   "engines": {
     "node": ">=10.0.0"
