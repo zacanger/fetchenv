@@ -1,5 +1,7 @@
 # fetchenv
 
+DEPRECATED, use neofetch
+
 scrot-friendly env info
 
 ![screenshot](/screenshot.png?raw=true)
